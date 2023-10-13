@@ -128,7 +128,7 @@ export default function DerivedStates() {
                   {product.name}
                 </h3>
                 <p className="text-md text-center  my-2  text-muted-foreground">
-                  Number in The Stock {product.numberInStock}
+                  Number in The Stock🗑️ {product.numberInStock}
                 </p>
                 <div className="flex justify-center items-center ">
                   <div className="flex gap-12">
